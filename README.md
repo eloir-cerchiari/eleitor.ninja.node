@@ -1,3 +1,6 @@
+Reescrevendo o eleitor.ninja em nodejs, usado para alguns testes
+
+
 npm init -y
 
 npm install express sequelize pg bcryptjs dotenv --save
